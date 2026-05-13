@@ -7,7 +7,7 @@ body {
 font-family: 'Poppins ', sans-serif;
 line-height: 1.6;
 color: var(--noir);
-background -color: var(--blanc-casse);
+background-color: var(--blanc-casse);
 }
 h1, h2, h3 {
 font-family: 'Montserrat ', sans-serif;
