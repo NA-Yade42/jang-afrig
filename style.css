@@ -86,6 +86,7 @@ margin-bottom: 8px;
 .carte-jaune { background-color: var(--jaune); }
 .carte-rouge { background-color: var(--rouge); color: white; }
 .carte-vert { background-color: var(--vert); color: white; }
+.carte-noir { background-color: var(--noir); color:white; border: yellow; }
 .btn {
 display: inline -block;
 padding: 12px 28px;
@@ -111,6 +112,8 @@ transform: scale(0.97);
 background-color: var(--blanc -casse);
 color: var(--noir);
 border: 2px solid var(--noir);
+display: flex; 
+gap: 10px;
 }
 .btn-secondary:hover {
 background-color: var(--noir);
